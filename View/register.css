@@ -1,0 +1,49 @@
+body{
+	font: 20px/100% Georgia,"Times New Roman",Times,serif;
+    line-height: 15px;  
+    background:rgb(60,60,60);
+    
+}
+.container{
+	border-style: ridge;
+   	margin-left:33%;
+   	margin-right:40%;
+   	border-color: white;
+   	border-radius: 6px;
+    padding-left: 5%;
+    padding-right: 2%;
+    margin-top: 5%;
+    background-color:rgb(60,60,60);
+
+
+}
+#button{
+	background-color: lightblue;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	margin-left: 65px;
+	border-radius: 6px;
+	font-size: 15px;
+}
+.forms{
+	margin-left:30px; 
+}
+p{
+	margin-left: 65px;
+	color: white;}
+h2{
+	color: white;
+}	
+
+.inp{
+	height: 22px;
+	width: 80%;
+	font-size: 20px;
+	font-family: Times;
+	border-radius: 3px;
+}
+h4{
+	color:#f00;
+}
